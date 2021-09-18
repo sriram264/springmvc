@@ -38,6 +38,7 @@ public class HomeController {
 		System.out.println("User Page Requested");
 		
 		model.addAttribute("userName", user.getUserName());
+		System.out.println("success");
 		return "user";
 	}
 }
