@@ -39,6 +39,7 @@ public class HomeController {
 		System.out.println("User Page Requested");
 		//User
 		model.addAttribute("userName", user.getUserName());
+		System.out.println("TEST commit");
 		System.out.println("success");
 		return "user";
 	}
