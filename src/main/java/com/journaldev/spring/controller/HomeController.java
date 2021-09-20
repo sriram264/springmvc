@@ -40,6 +40,7 @@ public class HomeController {
 		model.addAttribute("userName", user.getUserName());
 		System.out.println("success");
 		System.out.println("userName");
+		System.out.println("password");
 		return "user";
 	}
 }
