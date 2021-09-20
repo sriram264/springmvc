@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Spring MVC Example</name>
-	<description>Spring MVC Hello World Example</description>
+	<description>Spring MVC Hello World </description>
 
 	<!-- Add Spring Web and MVC dependencies -->
 	<dependencies>
