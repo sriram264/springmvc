@@ -8,10 +8,7 @@
 	<name>Spring MVC Example</name>
 	<description>Spring MVC Hello World Example</description>
 
-	<!-- Add Spring Web and MVC dependencies of Mobile 
-	
-	
-	APP -->
+	<!-- Add Spring Web and MVC dependencies of Mobile APP -->
 	
 	<dependencies>
 		<dependency>
